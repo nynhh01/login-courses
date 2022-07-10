@@ -196,4 +196,8 @@
     font-size: 25px;
   }
 
- 
+@media (max-width:740px){
+  .slogan{
+    display: none;
+  }
+}
